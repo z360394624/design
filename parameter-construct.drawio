@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-11-24T07:07:34.499Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_iMTkZJPz2vElA1lJKfd" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-24T07:29:25.188Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SRR4GJK9bUJXBDYB1Ni4" version="22.1.3" type="github">
   <diagram name="第 1 页" id="uQ40-IGbXFpxMF0mr3Qt">
-    <mxGraphModel dx="1041" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1868" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8n8gIMH-XpW37bbLPmsB-11" value="录像" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="330" y="80" width="290" height="140" as="geometry" />
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-11" value="录像" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="230" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8n8gIMH-XpW37bbLPmsB-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-11" source="8n8gIMH-XpW37bbLPmsB-14" target="8n8gIMH-XpW37bbLPmsB-15">
           <mxGeometry relative="1" as="geometry" />
@@ -38,8 +38,8 @@
             <mxGeometry x="200" y="90" width="70" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="8n8gIMH-XpW37bbLPmsB-38" value="录像" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="20" y="80" width="290" height="140" as="geometry" />
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-38" value="录像" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="80" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8n8gIMH-XpW37bbLPmsB-39" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-38" source="8n8gIMH-XpW37bbLPmsB-41" target="8n8gIMH-XpW37bbLPmsB-42">
           <mxGeometry relative="1" as="geometry" />
@@ -72,8 +72,8 @@
             <mxGeometry x="200" y="90" width="70" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="8n8gIMH-XpW37bbLPmsB-47" value="录像" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="640" y="80" width="290" height="140" as="geometry" />
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-47" value="录像" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="380" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8n8gIMH-XpW37bbLPmsB-48" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-47" source="8n8gIMH-XpW37bbLPmsB-50" target="8n8gIMH-XpW37bbLPmsB-51">
           <mxGeometry relative="1" as="geometry" />
@@ -86,8 +86,8 @@
         <mxCell id="8n8gIMH-XpW37bbLPmsB-51" value="双摄" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-47">
           <mxGeometry x="110" y="90" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8n8gIMH-XpW37bbLPmsB-56" value="录像" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="951" y="80" width="290" height="140" as="geometry" />
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-56" value="录像" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="530" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8n8gIMH-XpW37bbLPmsB-57" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-56" source="8n8gIMH-XpW37bbLPmsB-59" target="8n8gIMH-XpW37bbLPmsB-60">
           <mxGeometry relative="1" as="geometry" />
@@ -120,8 +120,8 @@
             <mxGeometry x="200" y="90" width="70" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="8n8gIMH-XpW37bbLPmsB-67" value="拍照" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="1260" y="80" width="290" height="140" as="geometry" />
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-67" value="拍照" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="680" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8n8gIMH-XpW37bbLPmsB-68" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-67" source="8n8gIMH-XpW37bbLPmsB-70" target="8n8gIMH-XpW37bbLPmsB-71">
           <mxGeometry relative="1" as="geometry" />
@@ -134,8 +134,8 @@
         <mxCell id="8n8gIMH-XpW37bbLPmsB-71" value="双摄" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-67">
           <mxGeometry x="110" y="90" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8n8gIMH-XpW37bbLPmsB-76" value="拍照" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="1570" y="80" width="290" height="140" as="geometry" />
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-76" value="拍照" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="830" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8n8gIMH-XpW37bbLPmsB-77" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-76" source="8n8gIMH-XpW37bbLPmsB-78" target="8n8gIMH-XpW37bbLPmsB-79">
           <mxGeometry relative="1" as="geometry" />
@@ -148,8 +148,8 @@
         <mxCell id="8n8gIMH-XpW37bbLPmsB-79" value="双摄" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-76">
           <mxGeometry x="110" y="90" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8n8gIMH-XpW37bbLPmsB-80" value="拍照" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="1880" y="80" width="290" height="140" as="geometry" />
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-80" value="拍照" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="980" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8n8gIMH-XpW37bbLPmsB-81" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-80" source="8n8gIMH-XpW37bbLPmsB-82" target="8n8gIMH-XpW37bbLPmsB-83">
           <mxGeometry relative="1" as="geometry" />
@@ -162,8 +162,8 @@
         <mxCell id="8n8gIMH-XpW37bbLPmsB-83" value="双摄" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-80">
           <mxGeometry x="110" y="90" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8n8gIMH-XpW37bbLPmsB-84" value="拍照" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="2200" y="80" width="290" height="140" as="geometry" />
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-84" value="拍照" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="1130" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8n8gIMH-XpW37bbLPmsB-85" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-84" source="8n8gIMH-XpW37bbLPmsB-86" target="8n8gIMH-XpW37bbLPmsB-87">
           <mxGeometry relative="1" as="geometry" />
@@ -176,8 +176,8 @@
         <mxCell id="8n8gIMH-XpW37bbLPmsB-87" value="双摄" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-84">
           <mxGeometry x="110" y="90" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8n8gIMH-XpW37bbLPmsB-97" value="录像分辨率" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="20" y="250" width="730" height="140" as="geometry">
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-97" value="录像公共参数" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="10" y="80" width="730" height="140" as="geometry">
             <mxRectangle x="20" y="250" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -252,8 +252,8 @@
             <mxGeometry x="650" y="90" width="70" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="8n8gIMH-XpW37bbLPmsB-117" value="录像分辨率" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="20" y="430" width="730" height="140" as="geometry" />
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-117" value="录像公共参数" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="10" y="230" width="730" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8n8gIMH-XpW37bbLPmsB-118" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-117" source="8n8gIMH-XpW37bbLPmsB-120" target="8n8gIMH-XpW37bbLPmsB-121">
           <mxGeometry relative="1" as="geometry" />
@@ -294,8 +294,8 @@
             <mxGeometry x="465" y="90" width="70" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="8n8gIMH-XpW37bbLPmsB-136" value="拍照分辨率" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="1260" y="250" width="730" height="140" as="geometry" />
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-136" value="拍照公共分辨率" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="10" y="680" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8n8gIMH-XpW37bbLPmsB-137" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-136" source="8n8gIMH-XpW37bbLPmsB-139" target="8n8gIMH-XpW37bbLPmsB-140">
           <mxGeometry relative="1" as="geometry" />
@@ -305,21 +305,441 @@
         </mxCell>
         <UserObject label="双摄" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-139">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-136">
-            <mxGeometry x="330" y="30" width="70" height="30" as="geometry" />
+            <mxGeometry x="55" y="30" width="70" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="8n8gIMH-XpW37bbLPmsB-140" value="14K" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-136">
-          <mxGeometry x="285" y="90" width="70" height="30" as="geometry" />
+          <mxGeometry x="10" y="90" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8n8gIMH-XpW37bbLPmsB-141" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-136" source="8n8gIMH-XpW37bbLPmsB-139" target="8n8gIMH-XpW37bbLPmsB-142">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="625" y="170" as="sourcePoint" />
-            <mxPoint x="715" y="250" as="targetPoint" />
+            <mxPoint x="350" y="170" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8n8gIMH-XpW37bbLPmsB-142" value="8K" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-136">
-          <mxGeometry x="375" y="90" width="70" height="30" as="geometry" />
+          <mxGeometry x="100" y="90" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-153" value="全局参数" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="1290" width="490" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-154" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-153" source="8n8gIMH-XpW37bbLPmsB-155" target="8n8gIMH-XpW37bbLPmsB-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="全局参数" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-155">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-153">
+            <mxGeometry x="210" y="30" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-156" value="Shutter" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-153">
+          <mxGeometry x="10" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-159" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="8n8gIMH-XpW37bbLPmsB-155" target="8n8gIMH-XpW37bbLPmsB-160" parent="8n8gIMH-XpW37bbLPmsB-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="ISO" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-160">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-153">
+            <mxGeometry x="90" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-161" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="8n8gIMH-XpW37bbLPmsB-155" target="8n8gIMH-XpW37bbLPmsB-162" parent="8n8gIMH-XpW37bbLPmsB-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="EV" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-162">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-153">
+            <mxGeometry x="170" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-163" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="8n8gIMH-XpW37bbLPmsB-155" target="8n8gIMH-XpW37bbLPmsB-164" parent="8n8gIMH-XpW37bbLPmsB-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="白平衡" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-164">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-153">
+            <mxGeometry x="250" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-166" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="8n8gIMH-XpW37bbLPmsB-155" target="8n8gIMH-XpW37bbLPmsB-167" parent="8n8gIMH-XpW37bbLPmsB-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="HDR" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-167">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-153">
+            <mxGeometry x="330" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-168" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="8n8gIMH-XpW37bbLPmsB-155" target="8n8gIMH-XpW37bbLPmsB-169" parent="8n8gIMH-XpW37bbLPmsB-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="测光模式" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-169">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-153">
+            <mxGeometry x="410" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-170" value="其他参数" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="1440" width="330" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-171" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-170" source="8n8gIMH-XpW37bbLPmsB-172" target="8n8gIMH-XpW37bbLPmsB-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="其他参数" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-172">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-170">
+            <mxGeometry x="130" y="30" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-173" value="码率" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-170">
+          <mxGeometry x="10" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-174" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-170" source="8n8gIMH-XpW37bbLPmsB-172" target="8n8gIMH-XpW37bbLPmsB-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="编码" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-175">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-170">
+            <mxGeometry x="90" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-176" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-170" source="8n8gIMH-XpW37bbLPmsB-172" target="8n8gIMH-XpW37bbLPmsB-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="抗闪烁" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-177">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-170">
+            <mxGeometry x="170" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-178" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-170" source="8n8gIMH-XpW37bbLPmsB-172" target="8n8gIMH-XpW37bbLPmsB-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="视频分段" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-179">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-170">
+            <mxGeometry x="250" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-184" value="模式独立参数" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="750" y="230" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-185" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-184" source="8n8gIMH-XpW37bbLPmsB-187" target="8n8gIMH-XpW37bbLPmsB-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-186" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-184" source="8n8gIMH-XpW37bbLPmsB-187" target="8n8gIMH-XpW37bbLPmsB-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="循环时长" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-187">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-184">
+            <mxGeometry x="145" y="30" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-188" value="2MIN" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-184">
+          <mxGeometry x="10" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-189" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-184" source="8n8gIMH-XpW37bbLPmsB-187" target="8n8gIMH-XpW37bbLPmsB-190">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="170" as="sourcePoint" />
+            <mxPoint x="530" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-190" value="3MIN" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-184">
+          <mxGeometry x="100" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-191" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-184" source="8n8gIMH-XpW37bbLPmsB-187" target="8n8gIMH-XpW37bbLPmsB-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="5MIN" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-192">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-184">
+            <mxGeometry x="190" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-193" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-184" source="8n8gIMH-XpW37bbLPmsB-187" target="8n8gIMH-XpW37bbLPmsB-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="10MIN" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-194">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-184">
+            <mxGeometry x="280" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-195" value="模式独立参数" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="750" y="380" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-196" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-195" source="8n8gIMH-XpW37bbLPmsB-198" target="8n8gIMH-XpW37bbLPmsB-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-197" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-195" source="8n8gIMH-XpW37bbLPmsB-198" target="8n8gIMH-XpW37bbLPmsB-201">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="延迟倍率" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-198">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-195">
+            <mxGeometry x="145" y="30" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-199" value="x5" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-195">
+          <mxGeometry x="10" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-200" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-195" source="8n8gIMH-XpW37bbLPmsB-198" target="8n8gIMH-XpW37bbLPmsB-201">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="170" as="sourcePoint" />
+            <mxPoint x="530" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-201" value="x10" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-195">
+          <mxGeometry x="100" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-202" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-195" source="8n8gIMH-XpW37bbLPmsB-198" target="8n8gIMH-XpW37bbLPmsB-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="x30" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-203">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-195">
+            <mxGeometry x="190" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-204" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-195" source="8n8gIMH-XpW37bbLPmsB-198" target="8n8gIMH-XpW37bbLPmsB-205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="x50" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-205">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-195">
+            <mxGeometry x="280" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-206" value="模式独立参数" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="440" y="830" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-207" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-206" source="8n8gIMH-XpW37bbLPmsB-209" target="8n8gIMH-XpW37bbLPmsB-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-208" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-206" source="8n8gIMH-XpW37bbLPmsB-209" target="8n8gIMH-XpW37bbLPmsB-212">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="间隔时长" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-209">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-206">
+            <mxGeometry x="145" y="30" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-210" value="1s" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-206">
+          <mxGeometry x="10" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-211" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-206" source="8n8gIMH-XpW37bbLPmsB-209" target="8n8gIMH-XpW37bbLPmsB-212">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="170" as="sourcePoint" />
+            <mxPoint x="530" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-212" value="2s" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-206">
+          <mxGeometry x="100" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-213" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-206" source="8n8gIMH-XpW37bbLPmsB-209" target="8n8gIMH-XpW37bbLPmsB-214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="3s" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-214">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-206">
+            <mxGeometry x="190" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-215" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-206" source="8n8gIMH-XpW37bbLPmsB-209" target="8n8gIMH-XpW37bbLPmsB-216">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="4s" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-216">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-206">
+            <mxGeometry x="280" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-217" value="拍照公共参数" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="10" y="830" width="420" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-218" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-217" source="8n8gIMH-XpW37bbLPmsB-220" target="8n8gIMH-XpW37bbLPmsB-221">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-219" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-217" source="8n8gIMH-XpW37bbLPmsB-220" target="8n8gIMH-XpW37bbLPmsB-223">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="倒计时" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-220">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-217">
+            <mxGeometry x="180" y="30" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-221" value="关闭" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-217">
+          <mxGeometry x="10" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-222" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-217" source="8n8gIMH-XpW37bbLPmsB-220" target="8n8gIMH-XpW37bbLPmsB-223">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="170" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-223" value="2S" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-217">
+          <mxGeometry x="100" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-224" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="8n8gIMH-XpW37bbLPmsB-220" target="8n8gIMH-XpW37bbLPmsB-225" parent="8n8gIMH-XpW37bbLPmsB-217">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="3s" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-225">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-217">
+            <mxGeometry x="180" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-226" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="8n8gIMH-XpW37bbLPmsB-220" target="8n8gIMH-XpW37bbLPmsB-227" parent="8n8gIMH-XpW37bbLPmsB-217">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="5s" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-227">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-217">
+            <mxGeometry x="260" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-228" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="8n8gIMH-XpW37bbLPmsB-220" target="8n8gIMH-XpW37bbLPmsB-229" parent="8n8gIMH-XpW37bbLPmsB-217">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="10s" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-229">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-217">
+            <mxGeometry x="340" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-230" value="拍照公共参数" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="10" y="980" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-231" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-230" source="8n8gIMH-XpW37bbLPmsB-233" target="8n8gIMH-XpW37bbLPmsB-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-232" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-230" source="8n8gIMH-XpW37bbLPmsB-233" target="8n8gIMH-XpW37bbLPmsB-236">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="色彩模式" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-233">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-230">
+            <mxGeometry x="50" y="30" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-234" value="标准" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-230">
+          <mxGeometry x="10" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-235" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-230" source="8n8gIMH-XpW37bbLPmsB-233" target="8n8gIMH-XpW37bbLPmsB-236">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="170" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-236" value="自然" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-230">
+          <mxGeometry x="100" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-245" value="拍照公共参数" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1130" width="420" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-246" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-245" source="8n8gIMH-XpW37bbLPmsB-248" target="8n8gIMH-XpW37bbLPmsB-249">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-247" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-245" source="8n8gIMH-XpW37bbLPmsB-248" target="8n8gIMH-XpW37bbLPmsB-251">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="文件类型" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-248">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-245">
+            <mxGeometry x="180" y="30" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-249" value="JPEG" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-245">
+          <mxGeometry x="10" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-250" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-245" source="8n8gIMH-XpW37bbLPmsB-248" target="8n8gIMH-XpW37bbLPmsB-251">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="170" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-251" value="DNG" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-245">
+          <mxGeometry x="100" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-252" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-245" source="8n8gIMH-XpW37bbLPmsB-248" target="8n8gIMH-XpW37bbLPmsB-253">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="HEIF" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-253">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-245">
+            <mxGeometry x="180" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-254" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-245" source="8n8gIMH-XpW37bbLPmsB-248" target="8n8gIMH-XpW37bbLPmsB-255">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="JPEG/DNG" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-255">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-245">
+            <mxGeometry x="260" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-256" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-245" source="8n8gIMH-XpW37bbLPmsB-248" target="8n8gIMH-XpW37bbLPmsB-257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="HEIF/DNG" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-257">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-245">
+            <mxGeometry x="340" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-258" value="模式独立参数" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1130" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-259" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-258" source="8n8gIMH-XpW37bbLPmsB-261" target="8n8gIMH-XpW37bbLPmsB-262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-260" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-258" source="8n8gIMH-XpW37bbLPmsB-261" target="8n8gIMH-XpW37bbLPmsB-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="AEB" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-261">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-258">
+            <mxGeometry x="100" y="30" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-262" value="3" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-258">
+          <mxGeometry x="10" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-263" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-258" source="8n8gIMH-XpW37bbLPmsB-261" target="8n8gIMH-XpW37bbLPmsB-264">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="170" as="sourcePoint" />
+            <mxPoint x="530" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-264" value="5" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-258">
+          <mxGeometry x="100" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-265" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-258" source="8n8gIMH-XpW37bbLPmsB-261" target="8n8gIMH-XpW37bbLPmsB-266">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="7" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-266">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-258">
+            <mxGeometry x="190" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-269" value="模式独立参数" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="750" y="530" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-270" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-269" source="8n8gIMH-XpW37bbLPmsB-272" target="8n8gIMH-XpW37bbLPmsB-273">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-271" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-269" source="8n8gIMH-XpW37bbLPmsB-272" target="8n8gIMH-XpW37bbLPmsB-275">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="直播平台" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-272">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-269">
+            <mxGeometry x="145" y="30" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-273" value="rtsp" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-269">
+          <mxGeometry x="10" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-274" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-269" source="8n8gIMH-XpW37bbLPmsB-272" target="8n8gIMH-XpW37bbLPmsB-275">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="170" as="sourcePoint" />
+            <mxPoint x="530" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-275" value="rtmp" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-269">
+          <mxGeometry x="100" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-276" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-269" source="8n8gIMH-XpW37bbLPmsB-272" target="8n8gIMH-XpW37bbLPmsB-277">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="YT" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-277">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-269">
+            <mxGeometry x="190" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8n8gIMH-XpW37bbLPmsB-278" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="8n8gIMH-XpW37bbLPmsB-269" source="8n8gIMH-XpW37bbLPmsB-272" target="8n8gIMH-XpW37bbLPmsB-279">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="NDI" treeRoot="1" id="8n8gIMH-XpW37bbLPmsB-279">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8n8gIMH-XpW37bbLPmsB-269">
+            <mxGeometry x="280" y="90" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
