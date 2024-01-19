@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T17:30:15.777Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="aHSnvXa1EDWVQsklGZoT" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T17:30:39.182Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="IDHFFRRXAik1KqGg6s9H" version="22.1.21" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
-    <mxGraphModel dx="2622" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3637" dy="1575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,9 +35,6 @@
         </mxCell>
         <mxCell id="17ea667e15c223fc-20" value="Encoder" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="700" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="17ea667e15c223fc-23" value="Accept paper" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qp4cCjDxQtJGaniVjh0g-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="Qp4cCjDxQtJGaniVjh0g-3" target="Qp4cCjDxQtJGaniVjh0g-6">
           <mxGeometry relative="1" as="geometry">
